@@ -1,0 +1,26 @@
+{
+  "common": {
+    "title": "Level Up"
+  },
+  "pt": {
+    "title": {
+      "description": "Evolua em direção ao próximo nível"
+    },
+    "login": "Entrar",
+    "logout": "Sair"
+  },
+  "en": {
+    "title": {
+      "description": "Upgrade in direction to the next level"
+    },
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "es": {
+    "title": {
+      "description": "Mejora en dirección al siguiente nivel"
+    },
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión"
+  }
+}
